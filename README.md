@@ -2,6 +2,8 @@
 
 # THE STARFLEET MARS STARGATE AQUEMENIS IS A SHORTCHANGE RUNNING GATE AND NOT A STARGATE BY DEFINITION
 
+![Image description](link-to-image)
+
 The Starfleet running gate at gasworks park was made from a single coil of aluminum wound 27 times and broken into two sections.
 
 Chemical bonds which are physically broken, yet chemically stable allow electromagnetic resonance to travel the full length of the coil even though it is broken into two pieces which are seperated a great distance.
@@ -25,3 +27,15 @@ ANIMALS WILL KILL YOU
 STARFLEET KILLS CRIMINALS
 
 PYCNOGONIDA EXISTS ON MARS DESERTS (DO NOT TRAVEL WITHOUT COLLOIDAL SILVER, ZINC, AND TUMERIC IN YOUR SYSTEM)
+
+# INSTRUCTIONS
+
+RUN INTO THE EARTH GATE
+
+WHEN YOU GET TO THE END YOU MAY SEE SOME KIND OF LIGHT TUNNEL, KEEP RUNNING 150 METERS.
+
+WHEN YOU REACH MARS, YOU WILL BE IN A DESERT.
+
+TURN AROUND AND TRAVEL 150 METERS BACK THE WAY YOU CAME TO GET BACK TO EARTH.
+
+RUN THROUGH THE MARS GATE TO GET BACK TO EARTH.

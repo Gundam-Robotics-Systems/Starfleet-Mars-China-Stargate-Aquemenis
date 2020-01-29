@@ -6,7 +6,7 @@ The Starfleet running gate at gasworks park was made from a single coil of alumi
 
 Chemical bonds which are physically broken, yet chemically stable allow electromagnetic resonance to travel the full length of the coil even though it is broken into two pieces which are seperated a great distance.
 
-Bending the coil at the ends of both sections creates and open ended resonance which travels the full length of both coil sections.
+Bending the coil at the ends of both sections creates an open ended resonance which travels the full length of both coil sections.
 
 One half of the coil is installed at gasworks park and the other half is installed in Mars' South Crater.
 

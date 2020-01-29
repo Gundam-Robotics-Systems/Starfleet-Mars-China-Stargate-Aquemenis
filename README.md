@@ -10,7 +10,9 @@ Bending the coil at the ends of both sections creates an open ended resonance wh
 
 One half of the coil is installed at gasworks park and the other half is installed in Mars' South Crater.
 
-Balances are used to maintain equal ambient electomagnetic fields at either installation.
+Balances are used to maintain equal ambient electomagnetic fields at either installation. A Heartbeat pulse runs through the gates.
+
+
 
 In the configuration which exists, simply running the length of the coil starting from the concrete sidewalk at gasworks park will deliver your person 150 meters north the Mars coil.
 

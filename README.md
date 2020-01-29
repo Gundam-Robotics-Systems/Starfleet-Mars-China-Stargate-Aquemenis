@@ -20,6 +20,8 @@ In the configuration which exists, simply running the length of the coil startin
 
 # MARS IN DANGEROUS
 
+![Starfleet Earth Gate Amphrose](https://raw.githubusercontent.com/CoryAndrewHofstad/Starfleet-Mars-Stargate-Aquemenis/master/Mars%20Running%20Gates/Screen%20Shot%202020-01-29%20at%203.58.09%20PM.png)
+
 POACHING WILL GET YOU KILLED
 
 ANIMALS WILL KILL YOU

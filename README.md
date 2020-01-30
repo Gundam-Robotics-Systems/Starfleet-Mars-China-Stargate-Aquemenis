@@ -20,7 +20,7 @@ Balances are used to maintain equal ambient electomagnetic fields at either inst
 
 In the configuration which exists, simply running the length of the coil starting from the concrete sidewalk at gasworks park will deliver your person 150 meters north the Mars coil.
 
-# MARS IN DANGEROUS
+# MARS IS DANGEROUS
 
 ![Starfleet Earth Gate Amphrose](https://raw.githubusercontent.com/CoryAndrewHofstad/Starfleet-Mars-Stargate-Aquemenis/master/Mars%20Running%20Gates/Screen%20Shot%202020-01-29%20at%203.58.09%20PM.png)
 

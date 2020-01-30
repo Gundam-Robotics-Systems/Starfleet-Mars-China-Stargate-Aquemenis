@@ -18,9 +18,6 @@ Balances are used to maintain equal ambient electomagnetic fields at either inst
 
 In the configuration which exists, simply running the length of the coil starting from the concrete sidewalk at gasworks park will deliver your person 150 meters north the Mars coil.
 
-# TRAVEL AT NOON 11:00-2:15
-https://jtauber.github.io/mars-clock/
-
 # MARS IN DANGEROUS
 
 ![Starfleet Earth Gate Amphrose](https://raw.githubusercontent.com/CoryAndrewHofstad/Starfleet-Mars-Stargate-Aquemenis/master/Mars%20Running%20Gates/Screen%20Shot%202020-01-29%20at%203.58.09%20PM.png)
@@ -32,6 +29,9 @@ ANIMALS WILL KILL YOU
 STARFLEET KILLS CRIMINALS
 
 PYCNOGONIDA EXISTS ON MARS DESERTS (DO NOT TRAVEL WITHOUT COLLOIDAL SILVER, ZINC, AND TUMERIC IN YOUR SYSTEM)
+
+# TRAVEL AT NOON 11:00-2:15
+https://jtauber.github.io/mars-clock/
 
 # INSTRUCTIONS
 

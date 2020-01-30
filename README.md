@@ -20,6 +20,8 @@ In the configuration which exists, simply running the length of the coil startin
 
 # MARS IN DANGEROUS
 
+![Starfleet Earth Gate Amphrose](https://raw.githubusercontent.com/CoryAndrewHofstad/Starfleet-Mars-Stargate-Aquemenis/master/Mars%20Running%20Gates/Screen%20Shot%202020-01-29%20at%203.58.09%20PM.png)
+
 POACHING WILL GET YOU KILLED
 
 ANIMALS WILL KILL YOU
@@ -28,7 +30,12 @@ STARFLEET KILLS CRIMINALS
 
 PYCNOGONIDA EXISTS ON MARS DESERTS (DO NOT TRAVEL WITHOUT COLLOIDAL SILVER, ZINC, AND TUMERIC IN YOUR SYSTEM)
 
+# TRAVEL AT NOON 11:00-2:15
+https://jtauber.github.io/mars-clock/
+
 # INSTRUCTIONS
+
+![Starfleet Mars Gate Aquemenis](https://raw.githubusercontent.com/CoryAndrewHofstad/Starfleet-Mars-Stargate-Aquemenis/master/Earth%20Running%20Gate/images/Google%20Maps/Screen%20Shot%202020-01-29%20at%202.52.32%20PM.png)
 
 RUN INTO THE EARTH GATE
 

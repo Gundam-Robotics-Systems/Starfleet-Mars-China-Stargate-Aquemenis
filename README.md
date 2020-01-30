@@ -1,5 +1,7 @@
 # Starfleet-Mars-Stargate-Aquemenis
 ![MARS FLAG OFFICIAL](https://raw.githubusercontent.com/CoryAndrewHofstad/Starfleet-Mars-Stargate-Aquemenis/master/Mars/MARS-FLAG-OFFICIAL.jpg) Official Flag of Mars
+
+![Starfleet Mars Gate Aquemenis](https://raw.githubusercontent.com/CoryAndrewHofstad/Starfleet-Mars-Stargate-Aquemenis/master/Starfleet-Mars-Shortpoint-Station-Map.jpg)
 # THE STARFLEET MARS STARGATE AQUEMENIS IS A SHORTCHANGE RUNNING GATE AND NOT A STARGATE BY DEFINITION
 
 ![Starfleet Mars Gate Aquemenis](https://raw.githubusercontent.com/CoryAndrewHofstad/Starfleet-Mars-Stargate-Aquemenis/master/Earth%20Running%20Gate/images/Google%20Maps/Screen%20Shot%202020-01-29%20at%202.50.27%20PM.png)
@@ -56,7 +58,8 @@ WHEN YOU GET TO THE END YOU MAY SEE SOME KIND OF LIGHT TUNNEL, KEEP RUNNING 150 
 
 AT 150 METERS YOU WILL INSTANTANEOUSLY BE IN THE MARS DESERT.
 
-![Starfleet Mars Gate Aquemenis](https://raw.githubusercontent.com/CoryAndrewHofstad/Starfleet-Mars-Stargate-Aquemenis/master/Mars%20Running%20Gates/Screen%20Shot%202020-01-29%20at%203.24.12%20PM.png)
+![Starfleet Mars Gate Aquemenis](
+https://raw.githubusercontent.com/CoryAndrewHofstad/Starfleet-Mars-Stargate-Aquemenis/master/Mars%20Running%20Gates/Screen%20Shot%202020-01-29%20at%205.32.30%20PM.png)
 
 TURN AROUND AND TRAVEL 150 METERS BACK THE WAY YOU CAME TO GET BACK TO EARTH GATE (SOUTH).
 

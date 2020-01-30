@@ -56,7 +56,7 @@ WHEN YOU GET TO THE END YOU MAY SEE SOME KIND OF LIGHT TUNNEL, KEEP RUNNING 150 
 
 AT 150 METERS YOU WILL INSTANTANEOUSLY BE IN THE MARS DESERT.
 
-![Starfleet Mars Gate Aquemenis](https://raw.githubusercontent.com/CoryAndrewHofstad/Starfleet-Mars-Stargate-Aquemenis/master/Mars%20Running%20Gates/Screen%20Shot%202020-01-29%20at%203.24.12%20PM.png)
+![Starfleet Mars Gate Aquemenis](https://raw.githubusercontent.com/CoryAndrewHofstad/Starfleet-Mars-Stargate-Aquemenis/master/Starfleet-Mars-Shortpoint-Station-Map.jpg)
 
 TURN AROUND AND TRAVEL 150 METERS BACK THE WAY YOU CAME TO GET BACK TO EARTH GATE (SOUTH).
 

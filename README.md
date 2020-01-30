@@ -1,5 +1,5 @@
 # Starfleet-Mars-Stargate-Aquemenis
-![MARS FLAG OFFICIAL](https://raw.githubusercontent.com/CoryAndrewHofstad/Starfleet-Mars-Stargate-Aquemenis/master/Mars/MARS-FLAG-OFFICIAL.jpg) Official Flag of Mars
+![MARS FLAG OFFICIAL](https://github.com/CoryAndrewHofstad/Starfleet-Mars-Stargate-Aquemenis/blob/master/Mars/MARS-FLAG-OFFICIAL.jpg?raw=true) Official Flag of Mars
 
 ![Starfleet Mars Gate Aquemenis](https://raw.githubusercontent.com/CoryAndrewHofstad/Starfleet-Mars-Stargate-Aquemenis/master/Starfleet-Mars-Shortpoint-Station-Map.jpg)
 # THE STARFLEET MARS STARGATE AQUEMENIS IS A SHORTCHANGE RUNNING GATE AND NOT A STARGATE BY DEFINITION

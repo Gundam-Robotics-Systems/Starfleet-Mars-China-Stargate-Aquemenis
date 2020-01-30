@@ -44,6 +44,8 @@ SOLDIERS KILL CRIMINALS ON CONTACT.
 
 SOLDIERS HAVE FACIAL DATABASES.
 
+MARS HAS SWITCHED TO ZERO.
+
 # INSTRUCTIONS
 
 ![Starfleet Mars Gate Aquemenis](https://raw.githubusercontent.com/CoryAndrewHofstad/Starfleet-Mars-Stargate-Aquemenis/master/Earth%20Running%20Gate/images/Google%20Maps/Screen%20Shot%202020-01-29%20at%202.52.32%20PM.png)

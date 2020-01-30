@@ -32,6 +32,8 @@ PYCNOGONIDA EXISTS ON MARS DESERTS (DO NOT TRAVEL WITHOUT COLLOIDAL SILVER, ZINC
 
 # INSTRUCTIONS
 
+![Starfleet Mars Gate Aquemenis](https://raw.githubusercontent.com/CoryAndrewHofstad/Starfleet-Mars-Stargate-Aquemenis/master/Earth%20Running%20Gate/images/Google%20Maps/Screen%20Shot%202020-01-29%20at%202.53.38%20PM.png)
+
 RUN INTO THE EARTH GATE
 
 WHEN YOU GET TO THE END YOU MAY SEE SOME KIND OF LIGHT TUNNEL, KEEP RUNNING 150 METERS.

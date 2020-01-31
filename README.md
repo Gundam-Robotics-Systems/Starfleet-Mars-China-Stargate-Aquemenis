@@ -16,9 +16,6 @@ The StarFleet Mars Seattle StarGate Aqueminis is a section located in Seattle, W
 
 The Mars gate will take you to a series of running gates planted within Mars South Crater. Coils in Mars South Crater bridge traffic to Andromeda, Saiya, Krypton, Hybuses, HyperBaad, Plesk, and multiple galaxies. Transit through Mars Crater is dangerous. Mars has an atmosphere like Earth, but the wildlife is out of control. Pycnogonida exists on Mars in dangerous quantities. Full facial protection and the ability to run at least 1.25 kilometers is required. 
 
-![Starfleet Mars Gate Aquemenis](https://github.com/CoryAndrewHofstad/Starfleet-Mars-Stargate-Aquemenis/blob/master/Earth%20Running%20Gate/images/Google%20Maps/Screen%20Shot%202020-01-29%20at%202.50.15%20PM.png)
-
-
 
 # MARS IS DANGEROUS
 

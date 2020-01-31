@@ -47,7 +47,7 @@ MARS HAS SWITCHED TO ZERO.
 
 # INSTRUCTIONS
 
-![Starfleet Mars Gate Aquemenis](https://raw.githubusercontent.com/CoryAndrewHofstad/Starfleet-Mars-Stargate-Aquemenis/master/Earth%20Running%20Gate/images/Google%20Maps/Screen%20Shot%202020-01-29%20at%202.52.32%20PM.png)
+![Starfleet Mars Gate Aquemenis](https://raw.githubusercontent.com/CoryAndrewHofstad/Starfleet-Mars-China-Stargate-Aquemenis/master/Earth%20Running%20Gates/Seattle%2C%20WA%20Running%20Gate/images/Google%20Maps/Screen%20Shot%202020-01-29%20at%202.52.32%20PM.png)
 
 RUN INTO THE EARTH GATE
 

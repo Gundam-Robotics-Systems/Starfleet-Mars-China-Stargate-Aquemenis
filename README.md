@@ -1,6 +1,6 @@
 # Starfleet-Mars-China-Stargate-Aquemenis
 
-# IMMUNE SYSTEM WARNING!
+# !IMMUNE SYSTEM WARNING!
 
 Successful travel through the Running Gate network requires 2 months minimum of daily Colloidal Silver, Zinc, and Tumeric consumption. Physalia physalis pycnogonida use the gate to enter Seattle and China from Mars. While decontamination is underway, use extreme caution. Pycnogonida is a threat that we have been dealing with forever, we are discovering new defense methods and ant-pycnogonida weapons daily. 
 

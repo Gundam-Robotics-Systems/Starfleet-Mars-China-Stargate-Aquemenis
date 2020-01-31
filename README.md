@@ -1,4 +1,4 @@
-# Starfleet-Mars-Stargate-Aquemenis
+# Starfleet-Mars-China-Stargate-Aquemenis
 ![MARS FLAG OFFICIAL](https://github.com/CoryAndrewHofstad/Starfleet-Mars-Stargate-Aquemenis/blob/master/Mars/MARS-FLAG-OFFICIAL.jpg?raw=true) Official Flag of Mars
 
 ![Starfleet Mars Gate Aquemenis](https://raw.githubusercontent.com/CoryAndrewHofstad/Starfleet-Mars-Stargate-Aquemenis/master/Starfleet-Mars-Shortpoint-Station-Map.jpg)
@@ -64,3 +64,9 @@ https://raw.githubusercontent.com/CoryAndrewHofstad/Starfleet-Mars-Stargate-Aque
 TURN AROUND AND TRAVEL 150 METERS BACK THE WAY YOU CAME TO GET BACK TO EARTH GATE (SOUTH).
 
 RUN THROUGH THE EARTH GATE (SOUTH) TO GET BACK TO EARTH.
+
+# China-Moon-Running-Gate
+
+![Starfleet China Moon Running Gate](
+https://raw.githubusercontent.com/CoryAndrewHofstad/Starfleet-Mars-China-Stargate-Aquemenis/master/Starfleet-China-Shortpoint-Station-Map-(CH-EN).jpg)
+

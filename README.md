@@ -22,7 +22,7 @@ A verticle coil to Cruize is installed at 47.645749, -122.333521
 A Time Capsule exists at 47.645745, -122.333228 (20 Minutes in Capusule = 5 HRS OUTSIDE Capsule)
 
 
-![MARS FLAG OFFICIAL](https://github.com/CoryAndrewHofstad/Starfleet-Mars-Stargate-Aquemenis/blob/master/Mars/MARS-FLAG-OFFICIAL.jpg?raw=true) Official Flag of Mars
+![MARS FLAG OFFICIAL](https://raw.githubusercontent.com/CoryAndrewHofstad/Starfleet-Mars-China-Stargate-Aquemenis/master/Mars%20Running%20Gates/Mars/MARS-FLAG-OFFICIAL.jpg) Official Flag of Mars
 
 ![Starfleet Mars Gate Aquemenis](https://raw.githubusercontent.com/CoryAndrewHofstad/Starfleet-Mars-Stargate-Aquemenis/master/Starfleet-Mars-Shortpoint-Station-Map.jpg)
 # THE STARFLEET MARS STARGATE AQUEMENIS IS A SHORTCHANGE RUNNING GATE AND NOT A STARGATE BY DEFINITION

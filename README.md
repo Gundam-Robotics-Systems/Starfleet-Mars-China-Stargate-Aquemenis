@@ -54,7 +54,7 @@ RUN INTO THE EARTH GATE
 ![Starfleet Mars Gate Aquemenis](https://raw.githubusercontent.com/CoryAndrewHofstad/Starfleet-Mars-China-Stargate-Aquemenis/master/Earth%20Running%20Gates/Seattle%2C%20WA%20Running%20Gate/images/Google%20Maps/Screen%20Shot%202020-01-29%20at%202.52.46%20PM.png)
 ![Starfleet Mars Gate Aquemenis](https://raw.githubusercontent.com/CoryAndrewHofstad/Starfleet-Mars-China-Stargate-Aquemenis/master/Earth%20Running%20Gates/Seattle%2C%20WA%20Running%20Gate/images/Google%20Maps/Screen%20Shot%202020-01-29%20at%202.52.51%20PM.png)
 ![Starfleet Mars Gate Aquemenis](https://raw.githubusercontent.com/CoryAndrewHofstad/Starfleet-Mars-China-Stargate-Aquemenis/master/Earth%20Running%20Gates/Seattle%2C%20WA%20Running%20Gate/images/Google%20Maps/Screen%20Shot%202020-01-29%20at%202.52.58%20PM.png)
-![Starfleet Mars Gate Aquemenis](https://raw.githubusercontent.com/CoryAndrewHofstad/Starfleet-Mars-China-Stargate-Aquemenis/master/Earth%20Running%20Gates/Seattle%2C%20WA%20Running%20Gate/images/Google%20Maps/Screen%20Shot%202020-01-29%20at%202.53.05%20PM.png)
+![Starfleet Mars Gate Aquemenis](https://raw.githubusercontent.com/CoryAndrewHofstad/Starfleet-Mars-China-Stargate-Aquemenis/master/Earth%20Running%20Gates/Seattle%2C%20WA%20Running%20Gate/images/Google%20Maps/Screen%20Shot%202020-01-29%20at%202.58.57%20PM.png)
 
 WHEN YOU GET TO THE END YOU MAY SEE SOME KIND OF LIGHT TUNNEL, KEEP RUNNING 150 METERS.
 

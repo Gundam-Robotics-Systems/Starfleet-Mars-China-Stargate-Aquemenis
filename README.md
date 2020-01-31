@@ -2,7 +2,9 @@
 # PRE FLIGHT CHECKLIST
 
 !!!IMMUNE SYSTEM WARNING!!!
+
 Successful travel through the Running Gate network requires 2 months minimum of daily Colloidal Silver, Zinc, and Tumeric consumption. Physalia physalis pycnogonida use the gate to enter Seattle and China from Mars. While decontamination is underway, use extreme caution. Pycnogonida is a threat that we have been dealing with forever, we are discovering new defense methods and ant-pycnogonida weapons daily. 
+
 !!!IMMUNE SYSTEM WARNING!!!
 
 The StarFleet Mars and China Stargate is by definition a ShortPoint chemically bonded double latch circuit transport responder (Running Gate). When two latch circuits are built-in series into the same aluminum coil they can pass from the first buffer to the second buffer any field contained within the coil's EM field. When a physical break occurs between the first and second latch circuit, chemical bonds which remain between the two resulting sections of the coil. Through these chemical connections, electromagnetic ion flow transfer fields and associated material great distances between the two severed coil sections. This method allows kilometers of coil sections to be prefabricated, segmented and shipped to remote locations to create daisy-chained transportation networks (Running Gate Network).

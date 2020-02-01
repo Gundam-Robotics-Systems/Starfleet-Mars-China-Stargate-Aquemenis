@@ -64,7 +64,7 @@ https://www.giss.nasa.gov/tools/mars24/download/
 
 ![Starfleet Mars Gate Aquemenis](https://raw.githubusercontent.com/CoryAndrewHofstad/Starfleet-Mars-China-Stargate-Aquemenis/master/Mars%20Running%20Gates/Check%20Point/MARS-HALLWAY.jpg)
 
-4. AT 150 METERS YOU WILL INSTANTANEOUSLY BE IN THE MARS DESERT.
+4. AT 150 METERS THE TUNNEL WILL END AND YOU WILL BE IN THE MARS DESERT.
 
 ![Starfleet Mars Gate Aquemenis](
 https://raw.githubusercontent.com/CoryAndrewHofstad/Starfleet-Mars-Stargate-Aquemenis/master/Mars%20Running%20Gates/Screen%20Shot%202020-01-29%20at%205.32.30%20PM.png)

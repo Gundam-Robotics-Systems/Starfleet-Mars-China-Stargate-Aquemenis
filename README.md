@@ -49,26 +49,26 @@ https://www.giss.nasa.gov/tools/mars24/download/
 
 
 
-RUN INTO THE EARTH GATE
+1. RUN INTO THE EARTH GATE
 ![Starfleet Mars Gate Aquemenis](https://raw.githubusercontent.com/CoryAndrewHofstad/Starfleet-Mars-China-Stargate-Aquemenis/master/Earth%20Running%20Gates/Seattle%2C%20WA%20Running%20Gate/images/Google%20Maps/Screen%20Shot%202020-01-29%20at%202.52.32%20PM.png)
 ![Starfleet Mars Gate Aquemenis](https://raw.githubusercontent.com/CoryAndrewHofstad/Starfleet-Mars-China-Stargate-Aquemenis/master/Earth%20Running%20Gates/Seattle%2C%20WA%20Running%20Gate/images/Google%20Maps/Screen%20Shot%202020-01-29%20at%202.52.46%20PM.png)
 ![Starfleet Mars Gate Aquemenis](https://raw.githubusercontent.com/CoryAndrewHofstad/Starfleet-Mars-China-Stargate-Aquemenis/master/Earth%20Running%20Gates/Seattle%2C%20WA%20Running%20Gate/images/Google%20Maps/Screen%20Shot%202020-01-29%20at%202.52.51%20PM.png)
 ![Starfleet Mars Gate Aquemenis](https://raw.githubusercontent.com/CoryAndrewHofstad/Starfleet-Mars-China-Stargate-Aquemenis/master/Earth%20Running%20Gates/Seattle%2C%20WA%20Running%20Gate/images/Google%20Maps/Screen%20Shot%202020-01-29%20at%202.52.58%20PM.png)
 ![Starfleet Mars Gate Aquemenis](https://raw.githubusercontent.com/CoryAndrewHofstad/Starfleet-Mars-China-Stargate-Aquemenis/master/Earth%20Running%20Gates/Seattle%2C%20WA%20Running%20Gate/images/Google%20Maps/Screen%20Shot%202020-01-29%20at%202.58.57%20PM.png)
 
-WHEN YOU PASS INTO MARS THERE WILL BE A LEFT TURN AND A LONG TUNNEL KEEP RUNNING DO NOT SLOW DOWN.
+2. WHEN YOU PASS INTO MARS THERE WILL BE A LEFT TURN AND A LONG TUNNEL KEEP RUNNING DO NOT SLOW DOWN.
 
 ![Starfleet Mars Gate Aquemenis](https://raw.githubusercontent.com/CoryAndrewHofstad/Starfleet-Mars-China-Stargate-Aquemenis/master/Mars%20Running%20Gates/Signs/LEFT-ONLY.gif)
 
-START SPRINTING, KEEP RUNNING 150 METERS.
+3. START SPRINTING, KEEP RUNNING 150 METERS.
 AT 150 METERS YOU WILL INSTANTANEOUSLY BE IN THE MARS DESERT.
 
 ![Starfleet Mars Gate Aquemenis](
 https://raw.githubusercontent.com/CoryAndrewHofstad/Starfleet-Mars-Stargate-Aquemenis/master/Mars%20Running%20Gates/Screen%20Shot%202020-01-29%20at%205.32.30%20PM.png)
 
-TURN AROUND AND TRAVEL 150 METERS BACK THE WAY YOU CAME TO GET BACK TO EARTH GATE (SOUTH).
+4. TURN AROUND AND TRAVEL 150 METERS BACK THE WAY YOU CAME TO GET BACK TO EARTH GATE (SOUTH).
 
-RUN THROUGH THE EARTH GATE (SOUTH) TO GET BACK TO EARTH.
+5. RUN THROUGH THE EARTH GATE (SOUTH) TO GET BACK TO EARTH.
 
 # TRANSIT TO CHINA
 

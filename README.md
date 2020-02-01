@@ -77,7 +77,7 @@ https://raw.githubusercontent.com/CoryAndrewHofstad/Starfleet-Mars-Stargate-Aque
 
 ![Starfleet China Moon Running Gate](
 https://raw.githubusercontent.com/CoryAndrewHofstad/Starfleet-Mars-China-Stargate-Aquemenis/master/Starfleet-China-Shortpoint-Station-Map-(CH-EN).jpg)
-Walking the gate at a quick pace will to the east will take you to Hong Kong International Airport Train Station on Chek Lap Kok. Eye protection is required in China, mouth protection is required during corona or SARS epidemics.
+Walking the Mars-China gate at a quick pace will to the East will take you to Hong Kong International Airport Train Station on Chek Lap Kok. Eye protection is required in China, mouth protection is required during corona or SARS epidemics.
 
 The China Running Gate segment is bonded to a coil segment on the moon and the coil segment at Gasworks Park in Seattle, WA, America on Earth.
 

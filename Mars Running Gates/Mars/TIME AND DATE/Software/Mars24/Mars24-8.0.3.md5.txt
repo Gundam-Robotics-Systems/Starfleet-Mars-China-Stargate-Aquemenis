@@ -1,0 +1,4 @@
+MD5 (Mars24J-8.0.3.tgz) = f1706c13a9eb4a66de7bda13d2a2a23c
+MD5 (Mars24J-8.0.3.zip) = b8a453421fbf7658aeaf3c0d30caed05
+MD5 (Mars24MacOS-8.0.3.dmg) = fd82fa4466b1980beb0876a7ffdd9830
+MD5 (Mars24Win-8.0.3.zip) = 7444aa10225be77c994cb3efdde50dbb

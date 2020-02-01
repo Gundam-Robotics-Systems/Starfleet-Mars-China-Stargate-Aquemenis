@@ -79,13 +79,14 @@ https://raw.githubusercontent.com/CoryAndrewHofstad/Starfleet-Mars-Stargate-Aque
 https://raw.githubusercontent.com/CoryAndrewHofstad/Starfleet-Mars-China-Stargate-Aquemenis/master/Starfleet-China-Shortpoint-Station-Map-(CH-EN).jpg)
 Walking the gate at a quick pace will to the east will take you to Hong Kong International Airport Train Station on Chek Lap Kok. Eye protection is required in China, mouth protection is required during corona or SARS epidemics.
 
+The China Running Gate segment is bonded to a coil segment on the moon and the coil segment at Gasworks Park in Seattle, WA, America on Earth.
+
 # StarFleet Transit Station Aqueminis
-The China Gate will take you to Seattle, or the Moon.
 
-There exists a buried verticle coil at 47.646035, -122.334814 to Nemesis.
+* There exists a buried verticle ladder coil at 47.646035, -122.334814 to Nemesis.
 
-A verticle coil to Cruize is installed at 47.645749, -122.333521
+* A verticle coil to Cruize is installed at 47.645749, -122.333521 and requires fast pole climbing to reach the Hebrew Capital in Cruize [cross].
 
-A Time Capsule exists at 47.645745, -122.333228 (20 Minutes in Capusule = 5 HRS OUTSIDE Capsule)
+* A Time Capsule is installed at 47.645745, -122.333228 (20 Minutes in Capusule = 5 HRS OUTSIDE Capsule)
 
-Transistor stacks throughout Gasworks park are used to maintain equal ambient electomagnetic fields at either installation. A Heartbeat pulse runs through the gates.
+* Transistor stacks throughout Gasworks Park are used to maintain equal ambient electomagnetic fields throughout the installation. A Heartbeat pulse runs through the gates.

@@ -17,7 +17,7 @@ The StarFleet Mars Seattle StarGate Aqueminis is a section located in Seattle, W
 The Mars gate will take you to a series of running gates planted within Mars South Crater. Coils in Mars South Crater bridge traffic to Andromeda, Saiya, Krypton, Hybuses, HyperBaad, Plesk, and multiple galaxies. Transit through Mars Crater is dangerous. Mars has an atmosphere like Earth, but the wildlife is out of control. Pycnogonida exists on Mars in dangerous quantities. Full facial protection and the ability to run at least 1.25 kilometers is required. 
 
 
-# MARS IS DANGEROUS
+## MARS IS DANGEROUS
 
 ![Starfleet Earth Gate Amphrose](https://raw.githubusercontent.com/CoryAndrewHofstad/Starfleet-Mars-Stargate-Aquemenis/master/Mars%20Running%20Gates/Screen%20Shot%202020-01-29%20at%203.58.09%20PM.png)
 
@@ -29,23 +29,23 @@ The Mars gate will take you to a series of running gates planted within Mars Sou
 
 * DO NOT TRAVEL WITHOUT COLLOIDAL SILVER, ZINC, AND TUMERIC IN YOUR SYSTEM
 
-# TRAVEL AT NOON 11:00-2:15
-NASA PROVIDES A DOWNLOADABLE MARS SUN CLOCK FOR SHORTCHANGE TRAVELERS.
+## TRAVEL AT NOON 11:00-2:15
+* NASA PROVIDES A DOWNLOADABLE MARS SUN CLOCK FOR SHORTCHANGE TRAVELERS.
 https://www.giss.nasa.gov/tools/mars24/download/
 
-INSECT PREDATORS ARE OUT IN THE MORNING WHEN THE DEW IS THAWING AND CREATURES ARE WAKING UP FROM A FROZEN STATE (BEWARE OF SLEEPING UNPROTECTED).
+* INSECT PREDATORS ARE OUT IN THE MORNING WHEN THE DEW IS THAWING AND CREATURES ARE WAKING UP FROM A FROZEN STATE (BEWARE OF SLEEPING UNPROTECTED).
 
-LARGE ANIMAL PREDATORS ARE OUT AT NIGHT.
+* LARGE ANIMAL PREDATORS ARE OUT AT NIGHT.
 
-SOLDIERS WILL KILL YOU AS IF YOU WERE AN INVADING FORCE IF YOU DO NOT ACT RIGHT.
+* SOLDIERS WILL KILL YOU AS IF YOU WERE AN INVADING FORCE IF YOU DO NOT ACT RIGHT.
 
-SOLDIERS KILL CRIMINALS ON CONTACT.
+* SOLDIERS KILL CRIMINALS ON CONTACT.
 
-SOLDIERS HAVE FACIAL DATABASES.
+* SOLDIERS HAVE FACIAL DATABASES.
 
-MARS HAS SWITCHED TO ZERO.
+* MARS HAS SWITCHED TO ZERO.
 
-# INSTRUCTIONS
+## INSTRUCTIONS
 
 
 

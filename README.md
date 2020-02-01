@@ -61,7 +61,10 @@ https://www.giss.nasa.gov/tools/mars24/download/
 ![Starfleet Mars Gate Aquemenis](https://raw.githubusercontent.com/CoryAndrewHofstad/Starfleet-Mars-China-Stargate-Aquemenis/master/Mars%20Running%20Gates/Signs/LEFT-ONLY.gif)
 
 3. START SPRINTING, KEEP RUNNING 150 METERS.
-AT 150 METERS YOU WILL INSTANTANEOUSLY BE IN THE MARS DESERT.
+
+![Starfleet Mars Gate Aquemenis](https://raw.githubusercontent.com/CoryAndrewHofstad/Starfleet-Mars-China-Stargate-Aquemenis/master/Mars%20Running%20Gates/Check%20Point/MARS-HALLWAY.jpg)
+
+4. AT 150 METERS THE TUNNEL WILL END AND YOU WILL BE IN THE MARS DESERT.
 
 ![Starfleet Mars Gate Aquemenis](
 https://raw.githubusercontent.com/CoryAndrewHofstad/Starfleet-Mars-Stargate-Aquemenis/master/Mars%20Running%20Gates/Screen%20Shot%202020-01-29%20at%205.32.30%20PM.png)
@@ -74,15 +77,16 @@ https://raw.githubusercontent.com/CoryAndrewHofstad/Starfleet-Mars-Stargate-Aque
 
 ![Starfleet China Moon Running Gate](
 https://raw.githubusercontent.com/CoryAndrewHofstad/Starfleet-Mars-China-Stargate-Aquemenis/master/Starfleet-China-Shortpoint-Station-Map-(CH-EN).jpg)
-Walking the gate at a quick pace will to the east will take you to Hong Kong International Airport Train Station on Chek Lap Kok. Eye protection is required in China, mouth protection is required during corona or SARS epidemics.
+Walking the Mars-China gate at a quick pace will to the East will take you to Hong Kong International Airport Train Station on Chek Lap Kok. Eye protection is required in China, mouth protection is required during corona or SARS epidemics.
+
+The China Running Gate segment is bonded to a coil segment on the moon and the coil segment at Gasworks Park in Seattle, WA, America on Earth. Transit to the moon requires an oxygen supply. Beware of Aquatic Animals. I will get more information ASAP.
 
 # StarFleet Transit Station Aqueminis
-The China Gate will take you to Seattle, or the Moon.
 
-There exists a buried verticle coil at 47.646035, -122.334814 to Nemesis.
+* There exists a buried verticle ladder coil at 47.646035, -122.334814 to Nemesis.
 
-A verticle coil to Cruize is installed at 47.645749, -122.333521
+* A verticle coil to Cruize is installed at 47.645749, -122.333521 and requires fast pole climbing to reach the Hebrew Capital in Cruize [cross].
 
-A Time Capsule exists at 47.645745, -122.333228 (20 Minutes in Capusule = 5 HRS OUTSIDE Capsule)
+* A Time Capsule is installed at 47.645745, -122.333228 (20 Minutes in Capusule = 5 HRS OUTSIDE Capsule)
 
-Transistor stacks throughout Gasworks park are used to maintain equal ambient electomagnetic fields at either installation. A Heartbeat pulse runs through the gates.
+* Transistor stacks throughout Gasworks Park are used to maintain equal ambient electomagnetic fields throughout the installation. A Heartbeat pulse runs through the gates.

@@ -30,6 +30,8 @@ The Mars gate will take you to a series of running gates planted within Mars Sou
 * DO NOT TRAVEL WITHOUT COLLOIDAL SILVER, ZINC, AND TUMERIC IN YOUR SYSTEM
 
 ### TRAVEL AT NOON 11:00-2:15
+
+![Starfleet Mars Gate Aquemenis](https://raw.githubusercontent.com/CoryAndrewHofstad/Starfleet-Mars-China-Stargate-Aquemenis/master/Mars%20Running%20Gates/Mars/TIME%20AND%20DATE/Software/Mars24/mars24_800_1050x600r.png)
 * NASA PROVIDES A DOWNLOADABLE MARS SUN CLOCK FOR SHORTCHANGE TRAVELERS.
 https://www.giss.nasa.gov/tools/mars24/download/
 

@@ -10,7 +10,7 @@ The StarFleet Mars and China Stargate is by definition a ShortPoint chemically b
 
 The StarFleet Mars Seattle StarGate Aqueminis is a section located in Seattle, WA, America, Earth. that is chemically bonded to coils on Mars and China. Various supply locations are available for food, medical kits, clothing, cannabis, hardware, electronics, computers, etc. The Starfleet running gate at gasworks park was made from a single 20'1" diameter coil of 3" diameter aluminum wound 27 times. The giant coil is broken into sections at the midpoint of two latch circuits. A portion of segmented coil is installed at Gasworks Park in Seattle, WA, America on earth. The other western most portion of the Gasworks park segment is bonded to another segment installed on Mars.  The Eastern most portion of the Gasworks Park segment is boned to a coil descretely installed in Hong Kong International Airport on Chek Lap Kok.
 
-## TRANSIT TO MARS
+# TRANSIT TO MARS
 
 ![Starfleet Mars Gate Aquemenis](https://raw.githubusercontent.com/CoryAndrewHofstad/Starfleet-Mars-Stargate-Aquemenis/master/Starfleet-Mars-Shortpoint-Station-Map.jpg)
 
@@ -45,7 +45,7 @@ https://www.giss.nasa.gov/tools/mars24/download/
 
 * MARS HAS SWITCHED TO ZERO.
 
-### INSTRUCTIONS
+## INSTRUCTIONS
 
 
 
@@ -70,7 +70,7 @@ TURN AROUND AND TRAVEL 150 METERS BACK THE WAY YOU CAME TO GET BACK TO EARTH GAT
 
 RUN THROUGH THE EARTH GATE (SOUTH) TO GET BACK TO EARTH.
 
-## TRANSIT TO CHINA
+# TRANSIT TO CHINA
 
 ![Starfleet China Moon Running Gate](
 https://raw.githubusercontent.com/CoryAndrewHofstad/Starfleet-Mars-China-Stargate-Aquemenis/master/Starfleet-China-Shortpoint-Station-Map-(CH-EN).jpg)
